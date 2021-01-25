@@ -1,3 +1,19 @@
-# anik511.github.io
-## user can give review only when loged-in. 
-### user name: admin; Password: admin.
+# Car-House
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
